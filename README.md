@@ -1,1 +1,2 @@
 # bharatintern_task2_netflixhomepage
+https://yaswanthmerugumala.github.io/bharatintern_task2_netflixhomepage/
